@@ -10,7 +10,9 @@
 
 
 
-NAME | MARK 
+topic | content
 ------------ | -------------
-MARIAM  | 2
-AHMAD | 4
+growthesmindes  |descreption
+markdown | example syntax
+
+exampel of markdawn yoe can learned from this [artical](https://www.markdownguide.org/basic-syntax)

@@ -16,3 +16,8 @@ growthesmindes  |descreption
 markdown | example syntax
 
 exampel of markdawn yoe can learned from this [artical](https://www.markdownguide.org/basic-syntax)
+
+grothist [learning link](https://www.izito.ws/ws?q=growth%20mindset%20picture%20books&asid=iz_ws_ba_8_gc1_06&de=c&ac=5793&cid=316296286&aid=1357897113520777&kid=kwd-84868748137021:loc-211&locale=en_US&msclkid=ce14f1578ed41ca74cc5aeb2365a4926)
+
+lacation : amman 
+email : mariam.mohammed942@hotmail.com

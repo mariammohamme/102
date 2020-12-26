@@ -11,3 +11,4 @@ im mariam graduation from philadilphia universty
 |  HTML AND CSS| [click](https://mariammohamme.github.io/Reading-note/read_4) |
 |  Dynamic web pages with JavaScript | [click](https://mariammohamme.github.io/Reading-note/read_6) |
 | Computer | [click](https://mariammohamme.github.io/Reading-note/read_b6) |
+| operation and looping | [click](https://mariammohamme.github.io/Reading-note/read_8) |

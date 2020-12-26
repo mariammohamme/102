@@ -7,5 +7,6 @@ im mariam graduation from philadilphia universty
 | The Coder's Computer | [click](https://mariammohamme.github.io/Reading-note/read_2) |
 |  Revisions and the Cloud| [click](https://mariammohamme.github.io/Reading-note/read_3) |
 |  HTML AND CSS| [click](https://mariammohamme.github.io/Reading-note/read_4) |
+|  Dynamic web pages with JavaScript | [click](https://mariammohamme.github.io/Reading-note/read_6) |
 
 

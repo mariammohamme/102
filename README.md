@@ -12,7 +12,7 @@
 
 topic | content
 ------------ | -------------
-growthesmindes  |descreption
+growthesmindes  | [click](read.md)
 markdown | example syntax
 
 exampel of markdawn yoe can learned from this [artical](https://www.markdownguide.org/basic-syntax)

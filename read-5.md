@@ -10,3 +10,6 @@ Hue :cercal color from (0 to 360)
 Saturatuin : amount of grey 100% full grey 0 shade grey
 Lightness : amount of white and black color 0 black 100% white
 Hsl : altranative way to specify the color in css3
+....
+
+...

@@ -19,8 +19,4 @@ im mariam graduation from philadilphia universty
 | operaatore/java and javascript | [click](https://mariammohamme.github.io/Reading-note/read_7) |
 | operation and looping | [click](https://mariammohamme.github.io/Reading-note/read_8) |
 | color | [click](https://mariammohamme.github.io/Reading-note/read-5) |
-## Code 201 Reading Notes
----------------------
- reading topics | URLs |
-|---|---|
-| Introductory HTML and JavaScript | [click](https://mariammohamme.github.io/Reading-note/class01) |
+
